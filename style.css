@@ -114,18 +114,19 @@ h1{
 }
 
 
-/* ******** img ********* */
+/* ******** footer ********* */
 
 footer {
     height: 45px;
     background-color: #333333;
-    font-size: 14px;
-    text-align: center;
+    max-width: 100%;
 }
 footer p{
     color: #fff;
     margin: auto 0;
     padding-top: 15px;
+    font-size: 14px;
+    text-align: center;
 }
 
 
